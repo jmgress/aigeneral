@@ -8,9 +8,7 @@ footer: 'James Gress | AI Director @ Accenture | https://jmgress.github.io/aigen
 ![bg right:40%](img/00-jamesgress.png)
 
 ## James Gress
-
-_AI Director_
-_Emerging Technology AI Lead / Accenture_
+_Emerging Technology and AI Lead / Accenture_
 
 
 <i class="fa-brands fa-linkedin"></i> LinkedIn: - [jamesgress](https://linkedin.com/in/jamesgress/)  
