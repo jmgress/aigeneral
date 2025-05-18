@@ -3,9 +3,10 @@ marp: true
 theme: custom-default
 footer: 'James Gress | AI Director @ Accenture | https://jmgress.github.io/aigeneral/'
 ---
-# Future of Software Engineering in the Age of AI
+# Work Redefined: Managing AI
 
-![bg right:40%](img/00-jamesgress.png)
+
+![bg right:38%](img/00-jamesgress.png)
 
 ## James Gress
 _Emerging Technology and AI Lead / Accenture_
@@ -20,9 +21,7 @@ _Emerging Technology and AI Lead / Accenture_
 <!-- 
 Done 100's of Prototypes
 Taken 10 applications to Production ranging from simple RAG to more complex Agentic systems
-
 -->
-
 
 ---
 
