@@ -25,7 +25,7 @@ Taken 10 applications to Production ranging from simple RAG to more complex Agen
 
 ---
 
-## I. Big Picture & Public Perception
+# <!--fit--> Big Picture & Public Perception
 
 ---
 
@@ -81,7 +81,7 @@ Likely areas of regulation:
 
 ---
 
-## II. Workforce & Organizational Strategy
+# <!--fit--> Workforce & Organizational Strategy
 
 ---
 
@@ -130,7 +130,7 @@ Likely areas of regulation:
 
 ---
 
-## III. AI & the Future of Education
+# <!--fit--> AI & the Future of Education
 
 ---
 
