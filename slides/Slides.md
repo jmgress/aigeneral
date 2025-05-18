@@ -1,105 +1,197 @@
 ---
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+footer: 'James Gress | AI Director @ Accenture | https://jmgress.github.io/aigeneral/'
 ---
+# Future of Software Engineering in the Age of AI
 
-# 1. Sample Presentation
-![bg right](https://picsum.photos/800/600)
+![bg right:40%](img/00-jamesgress.png)
 
----
+## James Gress
 
-<!-- Speaker Notes -->
-## 2. Speaker nots and Lists
+_AI Director_
+_Emerging Technology AI Lead / Accenture_
 
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
 
----
+<i class="fa-brands fa-linkedin"></i> LinkedIn: - [jamesgress](https://linkedin.com/in/jamesgress/)  
+<i class="fa-brands fa-github"></i> GitHub: [jmgress](https://github.com/jmgress)  
+<i class="fa-brands fa-x-twitter"></i> X.com: [@jmgress](https://x.com/jmgress)  
+<i class="fa-brands fa-meetup"></i> [Tampa Bay Generative AI Meetup](https://www.meetup.com/tampa-bay-generative-ai-meetup/)  
+<i class="fa-brands fa-meetup"></i> [Tampa Bay DevOps Meetup](https://www.meetup.com/tampa-devops-meetup/)
+<i class="fa-brands fa-meetup"></i> [Tampa Bay Platform Engineering Meetup](https://www.meetup.com/tampabayplatformengineering/)
+<!-- 
+Done 100's of Prototypes
+Taken 10 applications to Production ranging from simple RAG to more complex Agentic systems
 
-## 3. Speaker notes and images
-<!-- Can also do a multiline
-comment that will show in notes -->
+What a great time to be in Tech in Tampa Bay
+-->
 
-![Image](https://picsum.photos/800/600)
-
----
-
-## 4. Centered images
-
-You can center images
-
-![center](https://picsum.photos/800/600)
 
 ---
 
-## 5. Slide 4
-
-> This is a quote.
+## I. Big Picture & Public Perception
 
 ---
 
-## 6. Tables
+### What Do People Get Wrong (and Right) About AI?
 
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+**Misconceptions:**
+- AI is sentient or “thinking”  
+- It will immediately replace jobs  
+- It’s always accurate and unbiased  
 
----
+**Truths:**
+- It *is* transformative  
+- Boosts productivity and creativity  
+- Raises real ethical and legal questions
 
-![bg opacity](https://picsum.photos/800/600?image=53)
-## 7. Columns
+> *"AI is not a magic wand—it’s a tool shaped by human hands."*
 
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+<!-- _speaker: Emphasize that AI isn't magic—it’s built by humans and reflects our data, biases, and use cases. Clarify the difference between general and narrow AI, and highlight AI's ability to augment rather than replace. -->
 
 ---
 
-## 8. Icons
+### The Employer’s Role in AI Ethics
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+- Lead with **transparency**
+- Define **clear policies** for use  
+- Encourage **dialogue and diverse perspectives**  
+- Provide **AI literacy training**  
+- Create an **AI governance group**  
+
+👥 Ethical adoption starts internally
+
+<!-- _speaker: Employers must act as ethical leaders. Talk about real examples like usage policies, responsible AI committees, or internal "Ask Me Anything" sessions to address employee concerns. -->
 
 ---
 
-# 9. <!--fit--> Large Text
+### Will Government Regulate AI at Work?
+
+Yes—and it's already starting:
+
+- **U.S. executive orders**  
+- **EU AI Act**  
+- **FTC AI transparency guidance**
+
+Likely areas of regulation:
+- Bias detection  
+- Worker surveillance  
+- AI explainability  
+- Data privacy  
+
+🏛️ Build your AI playbook now
+
+<!-- _speaker: Share that companies should prepare for regulation as a certainty—not a possibility. If they're ahead of it with internal governance, they won’t be scrambling later. -->
 
 ---
 
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+## II. Workforce & Organizational Strategy
 
-# 10. Mermaid
+---
 
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+### Balancing AI and Human Talent
+
+- Invest in **AI fluency training**
+- Retain experienced workers through **reskilling**
+- Use **human-in-the-loop** designs
+- Promote **continuous learning**
+
+👩‍💻 Human talent remains essential
+
+<!-- _speaker: Talk about upskilling not as a one-time training, but a long-term investment. Mention how AI literacy can be a bridge—not a barrier—for talent retention. -->
+
+---
+
+### Hiring for AI-Era Roles: Challenges & Solutions
+
+**Challenges:**
+- Vague job roles  
+- Outdated job descriptions  
+- Overlooking transferable skills
+
+**Solutions:**
+- Shift to **skills-based hiring**
+- Use **AI tools** to match resumes to job needs  
+- Partner with **education providers**
+
+🔄 The hiring process must evolve
+
+<!-- _speaker: Discuss how many job postings don’t reflect real needs. Show how AI can assist in matching candidates, but human context is still key. -->
+
+---
+
+### What Skills Are Most Valuable Today?
+
+- **AI literacy**: knowing how to use tools  
+- **Critical thinking and judgment**  
+- **Prompt engineering**  
+- **Creativity and adaptability**  
+- **Human communication skills**
+
+🎯 Soft skills are now power skills
+
+<!-- _speaker: AI is powerful, but it needs good human direction. Those who can guide, critique, and refine AI output are in high demand. -->
+
+---
+
+## III. AI & the Future of Education
+
+---
+
+### Future AI Education in Schools
+
+- AI will be in **core curriculum**
+- Emphasis on **ethics, data, creativity**
+- Encourage **project-based, hands-on learning**
+- Build **employer partnerships** early
+
+🎓 Students will need to *understand*, not just use, AI
+
+<!-- _speaker: Reference the shift from computer classes to AI and data science as part of general education. Showcase examples like AI clubs or career day AI demos. -->
+
+---
+
+### AI Tools in the Classroom
+
+- 🧑‍🏫 Adaptive tutors
+- 📝 Automated essay feedback  
+- 🧪 Simulations for science/history  
+- 🗣️ Accessibility tools like speech-to-text  
+
+📚 AI empowers more inclusive learning
+
+<!-- _speaker: Teachers aren't being replaced—AI helps them reach more students more effectively. Highlight benefits for diverse learners and underserved communities. -->
+
+---
+
+### Personalized Learning with AI
+
+AI can tailor:
+- **Pace** of learning  
+- **Difficulty levels**  
+- **Content format** (video, text, gamified)  
+- Real-time **recommendations**
+
+🧠 Teachers teach. AI supports.
+
+<!-- _speaker: Students engage better when content meets them where they are. AI allows educators to personalize at scale. -->
+
+---
+
+### Connecting Students to Careers with AI
+
+- Map skills to **real-time job demand**
+- Build tailored **resumes and portfolios**
+- Suggest career paths and learning gaps
+- Facilitate **internships and job-matching**
+
+🔗 AI = Smart bridge from learning to earning
+
+<!-- _speaker: Mention platforms like LinkedIn and Handshake using AI. Talk about future tools that help students explore careers based on strengths and interests. -->
+
+---
+
+# <!--fit--> Questions?
+
+![bg right:40% w:400px](img/00-jamesgressqrcode.png)
+
