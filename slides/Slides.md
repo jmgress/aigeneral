@@ -81,6 +81,43 @@ Likely areas of regulation:
 
 ---
 
+# 🌍 Global AI Regulation Overview
+
+| Regulation / Guidance        | Region | Scope                     | Highlights |
+|-----------------------------|--------|---------------------------|------------|
+| 🇺🇸 **U.S. Executive Order (2023)** | U.S.    | Broad federal directive   | Safety, civil rights, privacy, innovation |
+| 🇪🇺 **EU AI Act (2024)**            | EU     | Binding law               | Risk tiers, fines, testing, explainability |
+| 🇺🇸 **FTC AI Guidance**             | U.S.    | Existing law enforcement  | Transparency, fairness, data protection |
+
+<!-- Speaker Notes:
+🧠 Key Takeaways:
+- U.S. EO emphasizes **innovation and safeguards**
+- EU AI Act sets **legal obligations** by risk
+- FTC focuses on **truthfulness, bias, and responsibility**
+
+This slide summarizes how major regulators are responding to AI. The U.S. Executive Order sets the tone for federal engagement, focusing on collaboration and security. The EU’s AI Act is currently the most comprehensive and enforceable law in the world. Meanwhile, the FTC is leveraging existing laws to keep AI deployments fair, transparent, and accountable.
+-->
+
+<!--
+Absolutely. In fact, we’re already seeing that scenario emerge.
+
+Governments around the world are stepping in—whether it’s the EU AI Act, which classifies AI systems by risk level and imposes strict legal requirements, or the U.S. Executive Orders, which focus on safe, secure, and trustworthy AI while laying the groundwork for more formal regulation. Even the FTC is leveraging existing laws to ensure companies are transparent, fair, and accountable in their AI use.
+
+But here’s the reality: regulation is only part of the answer. It’s really up to us as leaders to ensure AI is used ethically and responsibly—well before any mandate tells us to.
+
+Within the organizations I support, before you’re even allowed to use Generative AI, you must complete training on what you can and can’t do. There are guardrails in place, and continuous oversight to ensure these tools are used in ways that align with company policies and ethical standards.
+
+And this isn’t new. Every time we adopt new technology—whether it’s email, video conferencing, or now AI—we evaluate its capabilities and define responsible use. For example:
+
+We don’t enable Teams call transcripts by default to protect privacy.
+We have strict guidelines for using AI features in tools like Microsoft Teams. You're not allowed to ask questions like “How is this person reacting to the changes?” or use AI to assess individual performance.
+So yes, I do see government regulation becoming more common—and that can be a good thing. But it’s leadership, not legislation, that will set the tone for ethical AI adoption in the workplace.
+
+That said, we must be careful not to overregulate innovation. AI is a transformative technology, and the U.S. must lead, not lag—especially when other global powers that don’t share our values are racing ahead. Responsible leadership and global competitiveness must go hand in hand.
+-->
+
+---
+
 # <!--fit--> Workforce & Organizational Strategy
 
 ---
