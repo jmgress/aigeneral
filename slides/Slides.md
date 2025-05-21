@@ -75,19 +75,30 @@ Taken 10 applications to Production ranging from simple RAG to more complex Agen
 
 ### Will Government Regulate AI at Work?
 
-Yes—and it's already starting:
+<div style="display: flex; justify-content: space-between;">
 
+<div style="width: 45%;">
+
+#### **Current Actions:**
 - **U.S. executive orders**  
 - **EU AI Act**  
 - **FTC AI transparency guidance**
 
-Likely areas of regulation:
+</div>
+
+<div style="width: 45%;">
+
+#### **Likely Areas of Regulation:**
 - Bias detection  
 - Worker surveillance  
 - AI explainability  
 - Data privacy  
 
-🏛️ Build your AI playbook now
+</div>
+
+</div>
+
+🏛️ It's essential that we strike the right balance in regulation to avoid stifling innovation. As nations around the world race toward AGI and ASI, we must ensure that leadership in these transformative technologies rests with countries that share our values and interests.
 
 <!-- _speaker: Share that companies should prepare for regulation as a certainty—not a possibility. If they're ahead of it with internal governance, they won’t be scrambling later. -->
 
@@ -134,12 +145,12 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### Balancing AI and Human Talent
+## How are organizations balancing the integration of AI tools with the need to retain and upskill existing talent?
 
-- Invest in **AI fluency training**
-- Retain experienced workers through **reskilling**
-- Use **human-in-the-loop** designs
-- Promote **continuous learning**
+- Investing in **AI fluency training**
+- Retaining experienced workers through **reskilling**
+- Useing **human-in-the-loop** designs
+- Promoting **continuous learning**
 
 👩‍💻 Human talent remains essential
 
@@ -147,17 +158,29 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### Hiring for AI-Era Roles: Challenges & Solutions
+## What are some challenges companies face when adapting their hiring processes for AI-influenced roles, and how are they overcoming them?
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 45%;">
 
 **Challenges:**
 - Vague job roles  
 - Outdated job descriptions  
-- Overlooking transferable skills
+- Overlooking transferable skills  
+
+</div>
+
+<div style="width: 45%;">
 
 **Solutions:**
-- Shift to **skills-based hiring**
+- Shift to **skills-based hiring**  
 - Use **AI tools** to match resumes to job needs  
-- Partner with **education providers**
+- Partner with **education providers**  
+
+</div>
+
+</div>
 
 🔄 The hiring process must evolve
 
@@ -165,7 +188,7 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### What Skills Are Most Valuable Today?
+## AI continues to reshape roles across industries, what skills or qualities are becoming most valuable in new hires?
 
 - **AI literacy**: knowing how to use tools  
 - **Critical thinking and judgment**  
@@ -183,7 +206,7 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### Future AI Education in Schools
+## What will AI education look like for high school and college students, and how can it enhance learning?
 
 - AI will be in **core curriculum**
 - Emphasis on **ethics, data, creativity**
@@ -209,7 +232,7 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### Personalized Learning with AI
+## How can AI be used to personalize learning experiences for students?
 
 AI can tailor:
 - **Pace** of learning  
@@ -223,7 +246,7 @@ AI can tailor:
 
 ---
 
-### Connecting Students to Careers with AI
+## Are there ways that AI can help bridge the gap between students and employers?
 
 - Map skills to **real-time job demand**
 - Build tailored **resumes and portfolios**
