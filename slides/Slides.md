@@ -29,17 +29,29 @@ Taken 10 applications to Production ranging from simple RAG to more complex Agen
 
 ---
 
-### What Do People Get Wrong (and Right) About AI?
+## What Do People Get Wrong (and Right) About AI?
 
-**Misconceptions:**
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 45%;">
+
+#### **Misconceptions:**
 - AI is sentient or “thinking”  
 - It will immediately replace jobs  
 - It’s always accurate and unbiased  
 
-**Truths:**
+</div>
+
+<div style="width: 45%;">
+
+#### **Truths:**
 - It *is* transformative  
 - Boosts productivity and creativity  
-- Raises real ethical and legal questions
+- Raises real ethical and legal questions  
+
+</div>
+
+</div>
 
 > *"AI is not a magic wand—it’s a tool shaped by human hands."*
 
@@ -47,17 +59,17 @@ Taken 10 applications to Production ranging from simple RAG to more complex Agen
 
 ---
 
-### The Employer’s Role in AI Ethics
+## How Can Employers Address Ethical and Practical Differences in AI Adoption?
 
-- Lead with **transparency**
-- Define **clear policies** for use  
-- Encourage **dialogue and diverse perspectives**  
-- Provide **AI literacy training**  
-- Create an **AI governance group**  
+- Foster **transparency** in AI initiatives  
+- Establish **clear policies** for responsible use  
+- Promote **open dialogue** and diverse viewpoints  
+- Invest in **AI literacy and training programs**  
+- Form an **AI ethics and governance committee**  
 
-👥 Ethical adoption starts internally
+👥 Building trust starts with leadership  
 
-<!-- _speaker: Employers must act as ethical leaders. Talk about real examples like usage policies, responsible AI committees, or internal "Ask Me Anything" sessions to address employee concerns. -->
+<!-- _speaker: Highlight the importance of proactive leadership in addressing employee concerns. Share examples like internal training, open forums, and governance structures to ensure ethical AI adoption. -->
 
 ---
 
@@ -157,7 +169,7 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 - **AI literacy**: knowing how to use tools  
 - **Critical thinking and judgment**  
-- **Prompt engineering**  
+- **System Thinking**
 - **Creativity and adaptability**  
 - **Human communication skills**
 
@@ -184,11 +196,11 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### AI Tools in the Classroom
+### New AI Tools in the Classroom
 
 - 🧑‍🏫 Adaptive tutors
 - 📝 Automated essay feedback  
-- 🧪 Simulations for science/history  
+- 🧪 Simulations for science  
 - 🗣️ Accessibility tools like speech-to-text  
 
 📚 AI empowers more inclusive learning
