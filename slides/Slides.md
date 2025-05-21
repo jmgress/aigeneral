@@ -219,12 +219,13 @@ That said, we must be careful not to overregulate innovation. AI is a transforma
 
 ---
 
-### New AI Tools in the Classroom
+## What are some new AI Tools that can be used in education?
 
 - 🧑‍🏫 Adaptive tutors
 - 📝 Automated essay feedback  
-- 🧪 Simulations for science  
-- 🗣️ Accessibility tools like speech-to-text  
+- 🧪 Simulations for science and other disiplines  
+- 🗣️ Accessibility tools like speech-to-text
+- 📝 many others...  
 
 📚 AI empowers more inclusive learning
 
